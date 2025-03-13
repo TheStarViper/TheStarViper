@@ -13,4 +13,4 @@
 
 # Stats
 4 private repos<br>
-2 public repo<br>
+2 public repos<br>
