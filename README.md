@@ -6,6 +6,7 @@
 - Can Video Edit
 - Is interested in robotics
 - Mid at this github thingy
+- learning bevy/rust
 
 # Currently Developing:
 
