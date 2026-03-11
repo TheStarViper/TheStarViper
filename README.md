@@ -2,7 +2,9 @@
 
 # 👋Quick about me
 
-I am interested in electronics and i am able to do 3d-modeling, video editting, programming, and electronics. I also like making websites and really like homelabbing and networking and getting to self host apps aswell as develop a smart home
+I am interested in electronics and i am able to do 3d-modeling, video editting, programming, and electronics. I also like making websites and really like homelabbing and networking and getting to self host apps aswell as develop a smart home.
+
+Status: Student
 
 <hr/>
 
@@ -13,6 +15,7 @@ I am interested in electronics and i am able to do 3d-modeling, video editting, 
 - 1 website (private)
 - 2 projects (private)
 - 2 robotics repos (private)
+- 1 public completed project
 
 <hr/>
 <details>
