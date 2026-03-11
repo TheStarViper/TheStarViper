@@ -16,7 +16,7 @@ I am interested in electronics and i am able to do 3d-modeling, video editting, 
 
 <hr/>
 <details>
-  <summary><b>:computer: &nbsp;"Languages I know"</b></summary>
+  <summary><b>:computer: &nbsp;"Languages" I know</b></summary>
   <br/>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;\
