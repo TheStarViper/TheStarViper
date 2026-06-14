@@ -14,10 +14,7 @@ Status: Student <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thestarviper&theme=dark-minimalist&hide_border=true&border_radius=15)](https://git.io/streak-stats)
 <img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=thestarviper&show_icons=true&theme=omni&border_color=00000000&border_radius=15">
 
-- 1 website (private)
-- 2 projects (private)
-- 2 robotics repos (private)
-- 1 public completed project
+- 1 public project currently
 
 <hr/>
 <details>
