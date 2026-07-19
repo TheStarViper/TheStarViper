@@ -7,8 +7,7 @@ I am interested in electronics and i am able to do 3d-modeling, video editting, 
 
 Status: Student <br/>
 <br/>
-[Web Dev Portfolio](https://web.andrewwang.studio)<br/>
-[Engineering Portfolio](https://eng.andrewwang.studio)<br/>
+[portfolio](https://andrewwang.studio)<br/>
 <hr/>
 
 # ✍️Projects
